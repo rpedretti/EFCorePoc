@@ -1,0 +1,561 @@
+﻿[{
+	"code": 518,
+	"name": "Airline Ticket",
+	"refundUnit": {
+		"code": 5,
+		"name": "Item",
+		"activeIndicator": "A",
+		"acronym": "$",
+		"km": false,
+		"person": false,
+		"item": true
+	},
+	"lightIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/air-ticket.png",
+	"darkIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/air-ticket.png",
+	"createdAt": 1455559747000,
+	"updatedAt": 1455559747000,
+	"isCommentRequired": true,
+	"isAttachmentRequired": true,
+	"isPeopleRequired": false,
+	"helpText": "Please, describe the reason of expense."
+}, {
+	"code": 630,
+	"name": "Books",
+	"refundUnit": {
+		"code": 5,
+		"name": "Item",
+		"activeIndicator": "A",
+		"acronym": "$",
+		"km": false,
+		"person": false,
+		"item": true
+	},
+	"lightIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/books.png",
+	"darkIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/books.png",
+	"createdAt": 1455559747000,
+	"updatedAt": 1455559747000,
+	"isCommentRequired": false,
+	"isAttachmentRequired": true,
+	"isPeopleRequired": false,
+	"helpText": "Please, describe the reason of expense."
+}, {
+	"code": 517,
+	"name": "Bus / Train Ticket",
+	"refundUnit": {
+		"code": 5,
+		"name": "Item",
+		"activeIndicator": "A",
+		"acronym": "$",
+		"km": false,
+		"person": false,
+		"item": true
+	},
+	"lightIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/ticket.png",
+	"darkIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/ticket.png",
+	"createdAt": 1455559747000,
+	"updatedAt": 1455559747000,
+	"isCommentRequired": false,
+	"isAttachmentRequired": true,
+	"isPeopleRequired": false,
+	"helpText": "Please, describe the reason of expense."
+}, {
+	"code": 695,
+	"name": "Business Entertainment",
+	"refundUnit": {
+		"code": 5,
+		"name": "Item",
+		"activeIndicator": "A",
+		"acronym": "$",
+		"km": false,
+		"person": false,
+		"item": true
+	},
+	"lightIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/integracao.png",
+	"darkIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/integracao.png",
+	"createdAt": 1455559746000,
+	"updatedAt": 1455559746000,
+	"isCommentRequired": true,
+	"isAttachmentRequired": true,
+	"isPeopleRequired": false,
+	"helpText": "Please, describe the reason of expense."
+}, {
+	"code": 513,
+	"name": "Car Rental",
+	"refundUnit": {
+		"code": 5,
+		"name": "Item",
+		"activeIndicator": "A",
+		"acronym": "$",
+		"km": false,
+		"person": false,
+		"item": true
+	},
+	"lightIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/aluguel_carro.png",
+	"darkIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/aluguel_carro.png",
+	"createdAt": 1455559746000,
+	"updatedAt": 1455559746000,
+	"isCommentRequired": false,
+	"isAttachmentRequired": true,
+	"isPeopleRequired": false,
+	"helpText": "Please, describe the reason of expense."
+}, {
+	"code": 1065,
+	"name": "Engagement",
+	"refundUnit": {
+		"code": 5,
+		"name": "Item",
+		"activeIndicator": "A",
+		"acronym": "$",
+		"km": false,
+		"person": false,
+		"item": true
+	},
+	"lightIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/integracao.png",
+	"darkIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/integracao.png",
+	"createdAt": 1455559746000,
+	"updatedAt": 1455559746000,
+	"isCommentRequired": true,
+	"isAttachmentRequired": true,
+	"isPeopleRequired": false,
+	"helpText": "Please, describe the reason of expense."
+}, {
+	"code": 516,
+	"name": "Fuel",
+	"refundUnit": {
+		"code": 5,
+		"name": "Item",
+		"activeIndicator": "A",
+		"acronym": "$",
+		"km": false,
+		"person": false,
+		"item": true
+	},
+	"lightIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/fuel.png",
+	"darkIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/fuel.png",
+	"createdAt": 1455559746000,
+	"updatedAt": 1455559746000,
+	"isCommentRequired": false,
+	"isAttachmentRequired": true,
+	"isPeopleRequired": false,
+	"helpText": "Please, describe the reason of expense."
+}, {
+	"code": 809,
+	"name": "Health Services",
+	"refundUnit": {
+		"code": 5,
+		"name": "Item",
+		"activeIndicator": "A",
+		"acronym": "$",
+		"km": false,
+		"person": false,
+		"item": true
+	},
+	"lightIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/Health-Service.png",
+	"darkIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/Health-Service.png",
+	"createdAt": 1455559746000,
+	"updatedAt": 1455559746000,
+	"isCommentRequired": false,
+	"isAttachmentRequired": true,
+	"isPeopleRequired": false,
+	"helpText": "Please, describe the reason of expense."
+}, {
+	"code": 521,
+	"name": "Hotel / Accommodations",
+	"refundUnit": {
+		"code": 5,
+		"name": "Item",
+		"activeIndicator": "A",
+		"acronym": "$",
+		"km": false,
+		"person": false,
+		"item": true
+	},
+	"lightIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/hospedagem.png",
+	"darkIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/hospedagem.png",
+	"createdAt": 1455559746000,
+	"updatedAt": 1455559746000,
+	"isCommentRequired": true,
+	"isAttachmentRequired": true,
+	"isPeopleRequired": false,
+	"helpText": "Mobile phone: $10 (max value per day). Laundry is refundable after the 5th lodging day."
+}, {
+	"code": 968,
+	"name": "IOF (Brazil Only)",
+	"refundUnit": {
+		"code": 5,
+		"name": "Item",
+		"activeIndicator": "A",
+		"acronym": "$",
+		"km": false,
+		"person": false,
+		"item": true
+	},
+	"lightIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/passport.png",
+	"darkIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/passport.png",
+	"createdAt": 1455559747000,
+	"updatedAt": 1455559747000,
+	"isCommentRequired": false,
+	"isAttachmentRequired": true,
+	"isPeopleRequired": false,
+	"helpText": "Please, describe the reason of expense."
+}, {
+	"code": 957,
+	"name": "Internet",
+	"refundUnit": {
+		"code": 5,
+		"name": "Item",
+		"activeIndicator": "A",
+		"acronym": "$",
+		"km": false,
+		"person": false,
+		"item": true
+	},
+	"lightIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/internet.png",
+	"darkIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/internet.png",
+	"createdAt": 1455559747000,
+	"updatedAt": 1455559747000,
+	"isCommentRequired": false,
+	"isAttachmentRequired": true,
+	"isPeopleRequired": false,
+	"helpText": "Refund limit per day - $15"
+}, {
+	"code": 1093,
+	"name": "Meal (Off Site) Breakfast/Snack/Lunch",
+	"refundUnit": {
+		"code": 5,
+		"name": "Item",
+		"activeIndicator": "A",
+		"acronym": "$",
+		"km": false,
+		"person": false,
+		"item": true
+	},
+	"lightIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/refeicao-white.png",
+	"darkIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/refeicao.png",
+	"createdAt": 1455559747000,
+	"updatedAt": 1455559747000,
+	"isCommentRequired": false,
+	"isAttachmentRequired": true,
+	"isPeopleRequired": false,
+	"helpText": "Insert the expenses that you paid in the day, with names of the places and total value of the receipt."
+}, {
+	"code": 1094,
+	"name": "Meal (Off Site) Sat/Sun/Hol. and Dinner",
+	"refundUnit": {
+		"code": 5,
+		"name": "Item",
+		"activeIndicator": "A",
+		"acronym": "$",
+		"km": false,
+		"person": false,
+		"item": true
+	},
+	"lightIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/refeicao-white.png",
+	"darkIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/refeicao.png",
+	"createdAt": 1455559747000,
+	"updatedAt": 1455559747000,
+	"isCommentRequired": false,
+	"isAttachmentRequired": true,
+	"isPeopleRequired": false,
+	"helpText": "Please, describe the reason of expense."
+}, {
+	"code": 797,
+	"name": "Meal (On Site) Sat/Sun/Hol. and Dinner",
+	"refundUnit": {
+		"code": 5,
+		"name": "Item",
+		"activeIndicator": "A",
+		"acronym": "$",
+		"km": false,
+		"person": false,
+		"item": true
+	},
+	"lightIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/refeicao-white.png",
+	"darkIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/refeicao.png",
+	"createdAt": 1455559747000,
+	"updatedAt": 1455559747000,
+	"isCommentRequired": false,
+	"isAttachmentRequired": true,
+	"isPeopleRequired": false,
+	"helpText": "Please, describe the reason of expense."
+}, {
+	"code": 1092,
+	"name": "Meal (Team - Off Site)",
+	"refundUnit": {
+		"code": 3,
+		"name": "Person",
+		"activeIndicator": "A",
+		"acronym": "$",
+		"km": false,
+		"person": true,
+		"item": false
+	},
+	"lightIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/refeicao-white.png",
+	"darkIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/refeicao.png",
+	"createdAt": 1455559747000,
+	"updatedAt": 1455559747000,
+	"isCommentRequired": true,
+	"isAttachmentRequired": true,
+	"isPeopleRequired": true,
+	"helpText": "Insert the logins from the people that participated of the meal."
+}, {
+	"code": 525,
+	"name": "Meal (Team - On Site)",
+	"refundUnit": {
+		"code": 3,
+		"name": "Person",
+		"activeIndicator": "A",
+		"acronym": "$",
+		"km": false,
+		"person": true,
+		"item": false
+	},
+	"lightIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/refeicao-white.png",
+	"darkIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/refeicao.png",
+	"createdAt": 1455559747000,
+	"updatedAt": 1455559747000,
+	"isCommentRequired": true,
+	"isAttachmentRequired": true,
+	"isPeopleRequired": true,
+	"helpText": "Insert the logins from the people that participated of the meal."
+}, {
+	"code": 1132,
+	"name": "Meal Abroad",
+	"refundUnit": {
+		"code": 5,
+		"name": "Item",
+		"activeIndicator": "A",
+		"acronym": "$",
+		"km": false,
+		"person": false,
+		"item": true
+	},
+	"lightIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/refeicao-white.png",
+	"darkIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/refeicao.png",
+	"createdAt": 1459861351000,
+	"updatedAt": 1459861351000,
+	"isCommentRequired": true,
+	"isAttachmentRequired": true,
+	"isPeopleRequired": false,
+	"helpText": null
+}, {
+	"code": 520,
+	"name": "Mileage Reimbursement",
+	"refundUnit": {
+		"code": 4,
+		"name": "KM",
+		"activeIndicator": "A",
+		"acronym": "KM",
+		"km": true,
+		"person": false,
+		"item": false
+	},
+	"lightIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/reembolso-km-white.png",
+	"darkIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/reembolso-km.png",
+	"createdAt": 1455559747000,
+	"updatedAt": 1455559747000,
+	"isCommentRequired": true,
+	"isAttachmentRequired": false,
+	"isPeopleRequired": false,
+	"helpText": "Please, insert the route (with city and neighborhood) in the explanation field"
+}, {
+	"code": 526,
+	"name": "Mobile Phone Calls",
+	"refundUnit": {
+		"code": 5,
+		"name": "Item",
+		"activeIndicator": "A",
+		"acronym": "$",
+		"km": false,
+		"person": false,
+		"item": true
+	},
+	"lightIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/telefone-celular-white.png",
+	"darkIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/telefone-celular.png",
+	"createdAt": 1455559747000,
+	"updatedAt": 1455559747000,
+	"isCommentRequired": true,
+	"isAttachmentRequired": true,
+	"isPeopleRequired": false,
+	"helpText": "If you exceed the monthly limit value ($40.00), please request a corporate mobile phone with project manager."
+}, {
+	"code": 523,
+	"name": "Office Supplies",
+	"refundUnit": {
+		"code": 5,
+		"name": "Item",
+		"activeIndicator": "A",
+		"acronym": "$",
+		"km": false,
+		"person": false,
+		"item": true
+	},
+	"lightIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/material_escritorio.png",
+	"darkIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/material_escritorio.png",
+	"createdAt": 1455559747000,
+	"updatedAt": 1455559747000,
+	"isCommentRequired": false,
+	"isAttachmentRequired": true,
+	"isPeopleRequired": false,
+	"helpText": "Please, describe the reason of expense."
+}, {
+	"code": 515,
+	"name": "Parking",
+	"refundUnit": {
+		"code": 5,
+		"name": "Item",
+		"activeIndicator": "A",
+		"acronym": "$",
+		"km": false,
+		"person": false,
+		"item": true
+	},
+	"lightIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/parking.png",
+	"darkIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/parking.png",
+	"createdAt": 1455559746000,
+	"updatedAt": 1455559746000,
+	"isCommentRequired": false,
+	"isAttachmentRequired": true,
+	"isPeopleRequired": false,
+	"helpText": "Please, describe the reason of expense."
+}, {
+	"code": 514,
+	"name": "Postal Service",
+	"refundUnit": {
+		"code": 5,
+		"name": "Item",
+		"activeIndicator": "A",
+		"acronym": "$",
+		"km": false,
+		"person": false,
+		"item": true
+	},
+	"lightIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/correios-white.png",
+	"darkIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/correios.png",
+	"createdAt": 1455559746000,
+	"updatedAt": 1455559746000,
+	"isCommentRequired": false,
+	"isAttachmentRequired": true,
+	"isPeopleRequired": false,
+	"helpText": "Please, describe the reason of expense."
+}, {
+	"code": 689,
+	"name": "Recreation - Give me a break!",
+	"refundUnit": {
+		"code": 5,
+		"name": "Item",
+		"activeIndicator": "A",
+		"acronym": "$",
+		"km": false,
+		"person": false,
+		"item": true
+	},
+	"lightIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/integracao.png",
+	"darkIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/integracao.png",
+	"createdAt": 1455559747000,
+	"updatedAt": 1455559747000,
+	"isCommentRequired": true,
+	"isAttachmentRequired": true,
+	"isPeopleRequired": false,
+	"helpText": "Give me a break exclusive item."
+}, {
+	"code": 691,
+	"name": "Scholarship",
+	"refundUnit": {
+		"code": 5,
+		"name": "Item",
+		"activeIndicator": "A",
+		"acronym": "$",
+		"km": false,
+		"person": false,
+		"item": true
+	},
+	"lightIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/scholarship.png",
+	"darkIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/scholarship.png",
+	"createdAt": 1455559746000,
+	"updatedAt": 1455559746000,
+	"isCommentRequired": true,
+	"isAttachmentRequired": true,
+	"isPeopleRequired": false,
+	"helpText": "Please, insert the course name."
+}, {
+	"code": 512,
+	"name": "Taxi",
+	"refundUnit": {
+		"code": 5,
+		"name": "Item",
+		"activeIndicator": "A",
+		"acronym": "$",
+		"km": false,
+		"person": false,
+		"item": true
+	},
+	"lightIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/taxi.png",
+	"darkIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/taxi.png",
+	"createdAt": 1455559747000,
+	"updatedAt": 1455559747000,
+	"isCommentRequired": true,
+	"isAttachmentRequired": true,
+	"isPeopleRequired": false,
+	"helpText": "Please, insert the route (with city and neighborhood) in the explanation field"
+}, {
+	"code": 519,
+	"name": "Toll",
+	"refundUnit": {
+		"code": 5,
+		"name": "Item",
+		"activeIndicator": "A",
+		"acronym": "$",
+		"km": false,
+		"person": false,
+		"item": true
+	},
+	"lightIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/toll.png",
+	"darkIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/toll.png",
+	"createdAt": 1455559747000,
+	"updatedAt": 1455559747000,
+	"isCommentRequired": false,
+	"isAttachmentRequired": true,
+	"isPeopleRequired": false,
+	"helpText": "Please, describe the reason of expense."
+}, {
+	"code": 522,
+	"name": "Trainning Courses",
+	"refundUnit": {
+		"code": 5,
+		"name": "Item",
+		"activeIndicator": "A",
+		"acronym": "$",
+		"km": false,
+		"person": false,
+		"item": true
+	},
+	"lightIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/trainning-course.png",
+	"darkIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/trainning-course.png",
+	"createdAt": 1455559747000,
+	"updatedAt": 1455559747000,
+	"isCommentRequired": true,
+	"isAttachmentRequired": true,
+	"isPeopleRequired": false,
+	"helpText": "Please, insert the course name."
+}, {
+	"code": 759,
+	"name": "Visa Application Fees",
+	"refundUnit": {
+		"code": 5,
+		"name": "Item",
+		"activeIndicator": "A",
+		"acronym": "$",
+		"km": false,
+		"person": false,
+		"item": true
+	},
+	"lightIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/passport.png",
+	"darkIcon": "https://s3-sa-east-1.amazonaws.com/expenses-uat/refund-icons/passport.png",
+	"createdAt": 1455559747000,
+	"updatedAt": 1455559747000,
+	"isCommentRequired": false,
+	"isAttachmentRequired": true,
+	"isPeopleRequired": false,
+	"helpText": "Please, describe the reason of expense."
+}]

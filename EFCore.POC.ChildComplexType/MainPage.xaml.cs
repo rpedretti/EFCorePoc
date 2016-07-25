@@ -1,4 +1,5 @@
-﻿using System;
+﻿using EFCore.POC.ChildComplexType.Services;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -22,9 +23,17 @@ namespace EFCore.POC.ChildComplexType
     /// </summary>
     public sealed partial class MainPage : Page
     {
+        RefundTypeService _service;
+
         public MainPage()
         {
             this.InitializeComponent();
+            _service = new RefundTypeService();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            var types = _service.GetRefundTypes();
         }
     }
 }
