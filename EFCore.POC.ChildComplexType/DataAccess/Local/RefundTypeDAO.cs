@@ -21,9 +21,6 @@ namespace EFCore.POC.ChildComplexType.DataAccess.Local
                     var refundTypesToUpdate = context.RefundType.Where(rt => codes.Contains(rt.RefundTypeId)).ToList();
                     var refundTypesToInsert = refundTypes.Except(refundTypesToUpdate).ToList();
 
-                    //refundTypesToUpdate.ForEach(rt => rt.RefundUnit = context.RefundUnit.Single(ru => ru.RefundUnitId == rt.RefundUnit.RefundUnitId));
-                    //refundTypesToInsert.ForEach(rt => rt.RefundUnit = context.RefundUnit.Single(ru => ru.RefundUnitId == rt.RefundUnit.RefundUnitId));
-
                     context.RefundType.UpdateRange(refundTypesToUpdate);
                     context.RefundType.AddRange(refundTypesToInsert);
 

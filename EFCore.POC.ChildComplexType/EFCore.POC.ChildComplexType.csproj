@@ -103,7 +103,7 @@
     <Compile Include="DataAccess\Web\RefundTypeDAO.cs" />
     <Compile Include="Domain\RefundType.cs" />
     <Compile Include="Domain\RefundUnit.cs" />
-    <Compile Include="EFCore\POC\ChildComplexType\DataAccess\Local\RefundUnitDAO.cs" />
+    <Compile Include="DataAccess\Local\RefundUnitDAO.cs" />
     <Compile Include="Infrastructure\EFLoggerProvider.cs" />
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
